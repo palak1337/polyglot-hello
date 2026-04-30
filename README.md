@@ -17,3 +17,10 @@ cd java
 javac HelloWorld.java
 java HelloWorld
 ```
+
+### python
+
+```
+cd python
+python3 hello.py
+```
